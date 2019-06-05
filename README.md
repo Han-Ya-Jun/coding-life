@@ -7,7 +7,7 @@
 > - [Golang 学习笔记](https://hanyajun.com/golang-notes/)
 > - [编程基础复盘笔记](https://hanyajun.com/coding_basis_review/)
 > - [编程人生](https://hanyajun.com/coding-life/)
-> 个人博客：[hanyajun.com](https://hanyajun.com/)
+> - 个人博客：[hanyajun.com](https://hanyajun.com/)
 
 
 # 编程人生
