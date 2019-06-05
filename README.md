@@ -1,4 +1,4 @@
-# coding-life
+# [coding-life](https://github.com/Han-Ya-Jun/coding-life)
 编码人生，互联网激荡几十年，记录那些励志、感动、振奋的程序大佬故事，以此向他们致敬，激励自己以及后续不断前赴后继的人。
 > 本系列是 [coding-life](https://hanyajun.com/coding-life/)
 > 
